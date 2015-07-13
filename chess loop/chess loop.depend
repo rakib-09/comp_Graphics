@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385316876 source:d:\study\8th sem\graphics\codeblocks\chess loop\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1434704782 source:d:\study\8th sem\graphics\codeblocks\chess loop\loop.cpp
+	<stdio.h>
+	<GL/glut.h>
+
