@@ -1,0 +1,10 @@
+﻿Build started 7/14/2015 2:57:56 AM.
+     1>Project "D:\STUDY\8TH SEM\Graphics\batman\batman\batman.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\STUDY\8TH SEM\Graphics\batman\Debug\batman.exe" /INCREMENTAL /NOLOGO /LIBPATH:Dependencies\freeglut /LIBPATH:Dependencies\glew opengl32.lib glu32.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\STUDY\8TH SEM\Graphics\batman\Debug\batman.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\STUDY\8TH SEM\Graphics\batman\Debug\batman.lib" /MACHINE:X86 Debug\Source.obj
+         batman.vcxproj -> D:\STUDY\8TH SEM\Graphics\batman\Debug\batman.exe
+     1>Done Building Project "D:\STUDY\8TH SEM\Graphics\batman\batman\batman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.59
